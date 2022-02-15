@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">ShipSeeker</string>
+    <string name="text_welcome">Welcome to Ship Seeker!</string>
+    <string name="jiahua">By Jiahua Wu</string>
+    <string name="text_main_menu">Main Menu</string>
+    <string name="button_play_game">Play game!</string>
+    <string name="button_options">Options</string>
+    <string name="button_help">Help</string>
+    <string name="txt_settings">Settings</string>
+    <string name="txt_row">Row</string>
+    <string name="txt_col">Column</string>
+    <string name="txt_mines"># Ships</string>
+    <string name="button_erase">Erase time played</string>
+    <string name="times_played">Times Played: </string>
+    <string name ="found">Found </string>
+    <string name="scan_used">Scan used: </string>
+    <string name="game_over"><b>Game Over</b> </string>
+    <string name="congratulations"><b>Congratulations! You Won!</b> </string>
+    <string name="help">    This application is written by Jiahua Wu.\n
+        The link for this code is available on https://csil-git1.cs.surrey.sfu.ca/jwa318/cmpt276-a3.git.\n
+        To play the game, click on Play game! button.\n
+        To select the number of rows, columns and mines, go to options.\n
+        The game consist of clicking the buttons until the user finds all the ships.\n
+        Each time the user clicks on a button that has no ship, the number of scan will increase by 1,
+        and it will shows the\n number of ships on that column and row.\n
+        The user can click on a revealed ship to find the\n number of ships on that column and row,
+        but it will increase the number of scans.\n
+        Copyrights\n
+        SHIP\n
+        https://www.cleanpng.com/png-clip-art-vector-graphics-computer-icons-free-conte-6319680/preview.html\n
+        OCEAN\n
+        https://www.freepik.com/premium-vector/beach-landscape-vacation-banner-summer-sea-travel
+        -background-cartoon-style-with-blue-ocean-sand-palms-sail-ship-paradize-island-illustration_8803720.htm
+    </string>
+
+</resources>
